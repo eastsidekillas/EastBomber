@@ -1,8 +1,8 @@
-# ТЕЛЕГРАМ БОМБЕР ТЕЛЕФОНА)))
+# SMS BOMBER 2022)
 Библиотека для бота телеграм - [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI).
 
 ## Installation:
-#### Установка на Linux:
+# Установка на Linux:
 ```
 $ sudo pacman -S python
 $ pip install pyTelegramBotAPI phonenumbers requests
